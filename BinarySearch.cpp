@@ -31,5 +31,9 @@ void input ()
         cout << "Data ke-" << (i + 1) << " = ";
         cin >> elemen[i];
     }
+}
 
+void bubbleSortArray()
+{
+    
 }
