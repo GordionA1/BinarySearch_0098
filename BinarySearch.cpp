@@ -7,5 +7,10 @@ int x;
 
 void input ()
 {
-    
+    while (true)
+    {
+        cout << "Masukkan panjang elemen array: ";
+        cin >> nPanjang;
+   
+    }
 }
